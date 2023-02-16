@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Printing a line using printf function
- * Description: prints a string
- * return: 0
-*/
+ * main - Prining a line with the printf function
+ * Return: 0
+ */
 
 int main(void)
 {
