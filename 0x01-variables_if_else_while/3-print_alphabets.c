@@ -20,7 +20,7 @@ int main(void)
 	}
 	for (j = 0; j < 26; j++)
 	{
-		putchar(alp[j]);
+		putchar(ALP[j]);
 	}
 	putchar('\n');
 	return (0);
