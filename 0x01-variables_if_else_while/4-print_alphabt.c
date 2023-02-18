@@ -8,20 +8,16 @@
 
 int main(void)
 {
-	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
-	int i;
+	int c;
 
-	for (i = 0; i < 26; i--)
+	for (c = 'a'; c <= 'z'; c++)
 	{
-		if (i != 'e' && i != 'q')
+		if (c != 'e' && c != 'q')
 		{
-			putchar(alp[i]);
+			putchar(c);
 		}
-		else
-		{
-		}
+		c++;
 	}
 	putchar('\n');
 	return (0);
 }
-
