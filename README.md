@@ -5,3 +5,4 @@ In here are programs written for low-level programming and algorithm at the Alx 
  - [0x02. C - Functions, nested loops](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
  - [0x03. C - debugging](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x03-debugging)
  - [ 0x04. C - More functions, more nested loops](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x04-more_functions_nested_loops)
+ - [0x05. C - Pointers, arrays and strings](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)
