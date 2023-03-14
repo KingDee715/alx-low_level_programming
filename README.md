@@ -9,5 +9,6 @@ In here are programs written for low-level programming and algorithm at the Alx 
  - [0x06. C - More pointers, arrays and strings](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)
  - [0x07. C - Even more pointers, arrays and strings](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings)
  - [0x08. C - Recursion](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x08-recursion)
- - [0x09. C - Static libraries]()
-
+ - [0x09. C - Static libraries](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x09-static_libraries)
+ - [0x0A. C - argc, argv](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0A-argc_argv)
+ - [0x0B. C - malloc, free]()
