@@ -12,3 +12,6 @@ In here are programs written for low-level programming and algorithm at the Alx 
  - [0x09. C - Static libraries](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x09-static_libraries)
  - [0x0A. C - argc, argv](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0A-argc_argv)
  - [0x0B. C - malloc, free](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0B-malloc_free)
+ - [0x0C. C - More malloc, free](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0C-more_malloc_free)
+ - [0x0D. C - Preprocessor](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0D-preprocessor)
+ - [0x0E. C - Structures, typedef](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0E-structures_typedef)
