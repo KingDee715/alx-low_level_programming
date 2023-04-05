@@ -15,3 +15,5 @@ In here are programs written for low-level programming and algorithm at the Alx 
  - [0x0C. C - More malloc, free](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0C-more_malloc_free)
  - [0x0D. C - Preprocessor](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0D-preprocessor)
  - [0x0E. C - Structures, typedef](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0E-structures_typedef)
+ - [0x0F. C - Function pointers](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x0F-function_pointers)
+ - [0x13. C - More singly linked lists](https://github.com/KingDee715/alx-low_level_programming/tree/main/0x13-more_singly_linked_lists)
